@@ -1,0 +1,1 @@
+---\nname: User Story\nabout: Описание пользовательской фичи\ntitle: 'story: '\nlabels: 'user story'\n---\n\n### Описание\nКак [роль], я хочу [действие], чтобы [ценность].

@@ -1,0 +1,1 @@
+---\nname: Technical Task\nabout: Техническая задача\ntitle: 'tech: '\nlabels: 'technical'\n---\n\n### Цель задачи\nОписание работы.

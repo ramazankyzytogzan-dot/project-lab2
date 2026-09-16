@@ -1,0 +1,1 @@
+---\nname: Bug Report\nabout: Сообщение об ошибке\ntitle: 'bug: '\nlabels: 'bug'\n---\n\n### Описание дефекта\nОписание проблемы.

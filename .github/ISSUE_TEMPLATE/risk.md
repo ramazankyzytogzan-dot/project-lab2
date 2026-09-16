@@ -1,0 +1,1 @@
+---\nname: Risk\nabout: Фиксация риска\ntitle: 'risk: '\nlabels: 'risk'\n---\n\n### Описание риска\nЧто может пойти не так.
