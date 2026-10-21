@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0.0",
+  "released_at": "2026-10-21",
+  "summary": {
+    "title": "CafeFlow Security Threat Model",
+    "owner": "Қуанышбаева Айкүн",
+    "description": "Система автоматизации кафе CafeFlow (POS-терминал кассира, KDS-экран кухни, Express.js API бэкенд и СУБД PostgreSQL).",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "CafeFlow Architecture",
+        "diagramType": "STRIDE",
+        "placeholder": "Описание новой диаграммы STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Диаграмма компонентов CafeFlow (Кассир, Express API, PostgreSQL)"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Рамазанқызы Тоғжан",
+    "threatTop": 0
+  }
+}
